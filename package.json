@@ -1,15 +1,18 @@
 {
+  "version": "0.0.3",
   "name": "mamba-black",
   "displayName": "Mamba Black",
   "description": "Minimal pure black theme",
   "author": "saimaneim",
   "publisher": "saimaneim",
   "license": "MIT",
+  "scripts": {
+    "build": "vsce package"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/saimaneim/mamba-black"
   },
-  "version": "0.0.1",
   "engines": {
     "vscode": "^1.105.0"
   },
