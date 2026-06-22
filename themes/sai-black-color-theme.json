@@ -27,6 +27,7 @@
 		"tab.hoverBackground": "#0F0F0F",
 		"tab.border": "#000000",
 		"tab.activeBorder": "#000000",
+		"tab.activeBorderTop": "#222222",
 		"sideBar.background": "#000000",
 		"sideBar.border": "#000000",
 		"statusBar.background": "#000000",

@@ -2,6 +2,14 @@
 
 All notable changes to the "sai-black" extension will be documented in this file.
 
+## [0.1.3] - 2026-06-22
+
+- Fixed the tab active border color
+
+## [0.1.2] - 2026-06-20
+
+- Change screenshot
+
 ## [0.1.1] - 2026-06-19
 
 - rebrand extension from Mamba Black to Saiblack
