@@ -7,7 +7,7 @@
   "publisher": "saimaneim",
   "license": "MIT",
   "scripts": {
-    "build": "vsce package"
+    "build": "vsce package --allow-package-env-file --allow-package-all-secrets"
   },
   "repository": {
     "type": "git",
