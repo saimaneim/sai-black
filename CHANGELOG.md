@@ -2,6 +2,10 @@
 
 All notable changes to the "sai-black" extension will be documented in this file.
 
+## [0.1.4] - 2026-06-24
+
+- Fixed the focus border color
+
 ## [0.1.3] - 2026-06-22
 
 - Fixed the tab active border color

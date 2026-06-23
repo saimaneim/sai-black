@@ -52,7 +52,7 @@
 		"quickInputList.focusForeground": "#FFFFFF",
 		"pickerGroup.border": "#000000",
 		"pickerGroup.foreground": "#888888",
-		"focusBorder": "#00000000",
+		"focusBorder": "#333333",
 		"contrastBorder": "#00000000"
 	},
 	"tokenColors": [
